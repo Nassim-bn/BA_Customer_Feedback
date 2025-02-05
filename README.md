@@ -2,6 +2,11 @@
 
 ## 📌 Project Overview
 
+This project aims to leverage web scraping and machine learning techniques to extract valuable insights about British Airways' customer feedback and predict purchasing behavior.
+
+##### 1️⃣ Web Scraping & Sentiment Analysis: We collect and analyze customer reviews from Skytrax to understand sentiment trends and key concerns.
+##### 2️⃣ Predictive Modeling: We apply machine learning techniques to forecast customer purchasing decisions based on booking data..
+
 
 ## 📊 Steps Followed
 
